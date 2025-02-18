@@ -36,3 +36,9 @@ With this approach, we make geospatial analysis **more intuitive, efficient, and
 
 ## Outputs
 ![Buildings in Kukatpally area](images/B-kukatpally.jpg)
+Buildings in Kukatpally area
+![Roads in Kukatpally area](images/R-Kukatpally.jpg)
+Roads in Kukatpally area
+![Greenlands in Hyderabad city](images/G-Hyderabad.jpg)
+Greenlands in Hyderabad city
+
