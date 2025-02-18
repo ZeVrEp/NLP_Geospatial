@@ -32,3 +32,7 @@ This project simplifies geospatial exploration by making maps interactive and ac
 - General users looking for an easier way to navigate maps  
 
 With this approach, we make geospatial analysis **more intuitive, efficient, and user-friendly**.  
+
+
+## Outputs
+![Buildings in Kukatpally area](images/B-kukatpally.jpg)
